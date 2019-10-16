@@ -1,0 +1,16 @@
+git checkout -b <my branch name>.
+
+git branch dev
+git checkout dev
+
+git branch --list
+
+
+	************add files you want********
+git add .
+git status
+git commit -m '<message>'
+git push
+git push--set-upstream origin <branchName>
+
+
